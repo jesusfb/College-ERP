@@ -58,7 +58,7 @@ bash
 Copy code
 cd ../frontend
 npm start
-Access the application: Visit http://localhost:3000 for the frontend and http://localhost:5000 for the backend.
+Access the application: Visit http://localhost:5173 for the frontend and http://localhost:4000 for the backend.
 
 🧑‍💻 Usage
 Admin: Manage students, assign roles, and oversee academic records.
